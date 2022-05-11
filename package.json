@@ -15,7 +15,7 @@
     "classnames": "^2.2.6",
     "domready": "^1.0.8",
     "normalize.css": "^8.0.1",
-    "preact": "^10.5.5",
+    "preact": "^10.7.1",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "react-feather": "^2.0.8",
